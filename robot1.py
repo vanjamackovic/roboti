@@ -1,1 +1,3 @@
-print("Ja sam robot Luka")
+while(i<11):
+    print("Ja sam robot Luka")
+    i = i + 1
