@@ -1,0 +1,1 @@
+print("Ja sam robot Crnjo")
